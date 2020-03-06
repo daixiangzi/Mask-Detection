@@ -1,4 +1,4 @@
-# Mask-Detection on 2019 novel coronavirus (2019-nCoV)
+# Mask-Detection in 2019 novel coronavirus (2019-nCoV)
 We don't use any face maks dataset to complete face mask Detection, we think mask material is similar to clothes,they are textiles.  
 Finally we count clothes class of pixel proportion of face to predict by segmentation network.  
 # Dataset  
