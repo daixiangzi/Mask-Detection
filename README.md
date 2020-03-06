@@ -33,7 +33,7 @@ python3 test.py --model_path=/home/***.h5 --image_path=/home/yout_test_img_path.
 [Pre_model link](https://pan.baidu.com/s/1Lrkzs7rgPBTbDAvgmWj5Bw) `Extraction code`:piwi  
 
 # Result  
-![Mask](https://github.com/daixiangzi/Grad_Cam-pytorch-resnet50/tree/master/example/both.png) ![No_mask](https://github.com/daixiangzi/Grad_Cam-pytorch-resnet50/tree/master/example/both.png)
+![Mask](https://github.com/daixiangzi/Mask-Detection/tree/master/img/mask.jpg) ![No_mask](https://github.com/daixiangzi/Mask-Detection/tree/master/img/n0_mask.jpg)
 
 
 
