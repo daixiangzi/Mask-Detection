@@ -1,5 +1,5 @@
 # Mask-Detection
-we don't use any face maks dataset to complete face mask Detection, we think mask material is similar to clothe,they are textiles.  
+We don't use any face maks dataset to complete face mask Detection, we think mask material is similar to clothe,they are textiles.  
 Finally we count clothes class of pixel proportion of face to predict by segmentation network.  
 # Dataset  
 ---
