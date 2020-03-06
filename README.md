@@ -1,4 +1,4 @@
-# Mask-Detection
+# Mask-Detection on 2019 novel coronavirus (2019-nCoV)
 We don't use any face maks dataset to complete face mask Detection, we think mask material is similar to clothes,they are textiles.  
 Finally we count clothes class of pixel proportion of face to predict by segmentation network.  
 # Dataset  
@@ -34,6 +34,7 @@ python3 test.py --model_path=/home/***.h5 --image_path=/home/yout_test_img_path.
 
 # Result  
 ![Mask](https://github.com/daixiangzi/Mask-Detection/tree/master/img/mask.jpg) ![No_mask](https://github.com/daixiangzi/Mask-Detection/tree/master/img/n0_mask.jpg)
+# Please Support my work,Star with this project,Thanks  
 
 
 
